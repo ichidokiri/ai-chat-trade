@@ -1797,10 +1797,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@modelcontextprotocol/sdk@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@modelcontextprotocol/sdk/-/sdk-1.0.4.tgz#34ad1edd3db7dd7154e782312dfb29d2d0c11d21"
-  integrity sha512-C+jw1lF6HSGzs7EZpzHbXfzz9rj9him4BaoumlTciW/IDDgIpweF/qiCWKlP02QKg5PPcgY6xY2WCt5y2tpYow==
+"@modelcontextprotocol/sdk@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@modelcontextprotocol/sdk/-/sdk-1.1.1.tgz#9402e14c339da4420700d12288730a38fac777e3"
+  integrity sha512-siCApQgBn3U8R93TdumLtezRyRIlrA/a63GrTRO1jP31fRyOohpu0iPLvXzsyptxmy7B8GDxr8+r+Phu6mHgzg==
   dependencies:
     content-type "^1.0.5"
     raw-body "^3.0.0"
